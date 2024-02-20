@@ -44,9 +44,9 @@
 
 ## PS
 
-您扫描的这个NFC芯片不要扔，可以使用您自己的NFC APP或者使用推荐的[**NFC tool**] APP 下载地址：[https://www.wakdev.com/en/apps.html](https://www.wakdev.com/en/apps.html "NFC Tool")，将NFC 芯片设置为您想用来做的事情：
+您扫描的这个NFC芯片不要扔，可以使用您自己的NFC APP或者使用推荐的[**NFC tools**] APP 下载地址：[https://www.wakdev.com/en/apps.html](https://www.wakdev.com/en/apps.html "NFC Tools")，将NFC 芯片设置为您想用来做的事情：
 
-[![NFC Tool](https://www.wakdev.com/contents/apps/global/nfctools-logo.png)](https://www.wakdev.com/en/apps.html)
+[![NFC Tools](https://www.wakdev.com/contents/apps/global/nfctools-logo.png)](https://www.wakdev.com/en/apps.html)
 
 - 物体标签说明
 - 歌曲播放
