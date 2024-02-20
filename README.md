@@ -44,7 +44,7 @@
 
 ## PS
 
-您扫描的这个NFC芯片不要扔，可以去[https://www.wakdev.com/en/apps.html](https://www.wakdev.com/en/apps.html "NFC Tool")下载NFC tool APP或其它NFCAPP，将NFC 芯片设置为您想用来做的事情：
+您扫描的这个NFC芯片不要扔，可以使用您自己的NFC APP或者使用推荐的[**NFC tool**] APP 下载地址：[https://www.wakdev.com/en/apps.html](https://www.wakdev.com/en/apps.html "NFC Tool")，将NFC 芯片设置为您想用来做的事情：
 
 [![NFC Tool](https://www.wakdev.com/contents/apps/global/nfctools-logo.png)](https://www.wakdev.com/en/apps.html)
 
@@ -55,3 +55,5 @@
 - WIFI连接贴纸
 - 智能家居联动
 - 等等
+
+具体使用方法可以网页或者微信搜索[**NFC 贴纸使用**]
